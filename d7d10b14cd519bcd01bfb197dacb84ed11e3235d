@@ -1,0 +1,35 @@
+hermes_cli/config.py
+  895dbc60a8d905b8 182-186,188
+website/docs/user-guide/configuration.md
+  895dbc60a8d905b8 82
+website/docs/getting-started/installation.md
+  895dbc60a8d905b8 167
+AGENTS.md
+  895dbc60a8d905b8 424
+website/docs/reference/environment-variables.md
+  895dbc60a8d905b8 38
+tests/tools/test_web_tools_config.py
+  895dbc60a8d905b8 1-49
+tools/web_tools.py
+  895dbc60a8d905b8 66-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d7d10b14cd519bcd01bfb197dacb84ed11e3235d",
+  "prompts": {
+    "895dbc60a8d905b8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_3403f48c4ffegM4MmpBZcFwFkX",
+        "model": "opencode-go/glm-5"
+      },
+      "human_author": "caentzminger <112503481+caentzminger@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 892,
+      "total_deletions": 589,
+      "accepted_lines": 177,
+      "overriden_lines": 1
+    }
+  }
+}
